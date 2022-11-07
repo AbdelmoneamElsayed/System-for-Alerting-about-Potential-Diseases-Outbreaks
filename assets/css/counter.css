@@ -1,0 +1,127 @@
+/*.counter-up{
+	background:green;
+	min-height:40vh;
+	display:flex;
+	align-items:center;
+	padding:0 60px;
+	background-size:cover;
+	background-attachment:fixed;
+	position:relative;
+}
+
+.counter-up .content{
+    display:flex;
+    width:100%;
+    height:100%;
+    align-items:center;
+    justify-content:space-evenly;
+    position:relative;
+    z-index:2px;	 
+}
+.content .box{
+    width:calc(25% - 30px);
+    border:1px dashed gray;	
+	border-radius:5px;
+	padding:20px;
+	display:flex;
+	align-items:center;
+	justify-content:space-evenly;
+	color:gray;
+	flex-direction:column;	
+}
+.content .box .icon{
+    font-size:48px;
+    color:black;	
+}
+.content .box .counter{
+   	font-size:50px;
+    color:black;
+    font-weight:500;
+    font-family:sans-serif;	
+}
+.content .box .text{
+    color:black;
+	font-weight:400;	
+}*/
+
+
+
+.counter-section{
+   margin:5% auto;
+   color:green;
+   border:dashed;
+      
+}
+.icon-box{
+   border:1px solid black;
+    
+   height:100px;
+   width:100px;
+   margin:20px auto;
+   transform:rotate(45deg);   	
+}
+.icon-box i{
+     font-size:60px;
+     margin:25px auto;
+     color:green;
+     transform:rotate(-45deg);
+     position:center;	 
+}
+.counter-box {
+   margin-left:160px;
+padding-top: 30px;
+
+}
+.counter-box p{
+   font-size:20px;
+}
+.par{
+    color: green;
+}
+.counter-box .counter{
+	 font-size:80px;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
